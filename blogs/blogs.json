@@ -1,0 +1,13 @@
+{
+  "repo": "perl",
+  "feeds": [
+    {
+      "source": "https://blogs.perl.org",
+      "feed_url": "https://blogs.perl.org/atom.xml",
+      "saved": 10,
+      "title": "blogs.perl.org"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:33:54Z"
+}

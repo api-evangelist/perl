@@ -4,10 +4,10 @@
     {
       "source": "https://blogs.perl.org",
       "feed_url": "https://blogs.perl.org/atom.xml",
-      "saved": 10,
-      "title": "blogs.perl.org"
+      "title": "blogs.perl.org",
+      "saved": 8
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-05-03T23:33:54Z"
+  "post_count": 18,
+  "fetched": "2026-05-09T20:17:51Z"
 }

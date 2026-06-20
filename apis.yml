@@ -10,7 +10,7 @@ description: >-
 type: Index
 position: Producer
 access: Open Source
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Open Source
   - Programming Language

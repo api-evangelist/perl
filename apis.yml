@@ -29,7 +29,7 @@ common:
     url: https://www.perl.org/docs.html
   - type: Learn
     url: https://learn.perl.org
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://dev.perl.org
   - type: Blog
     url: https://blogs.perl.org
@@ -43,7 +43,7 @@ common:
     url: https://jobs.perl.org
   - type: Foundation
     url: https://www.perlfoundation.org
-  - type: GitHub Org
+  - type: GitHubOrg
     url: https://github.com/Perl
 maintainers:
   - FN: Kin Lane

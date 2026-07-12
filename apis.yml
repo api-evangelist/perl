@@ -23,6 +23,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/perl-domain-security.yml
   - type: Website
     url: https://www.perl.org
   - type: Documentation

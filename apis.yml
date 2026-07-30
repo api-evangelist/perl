@@ -8,9 +8,20 @@ description: >-
   and a global community of developers, blogs, and local user groups. The Perl
   Foundation supports ongoing development of Perl and its sister language Raku.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Producer
 access: Open Source
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/perl.png
 tags:
   - Open Source
   - Programming Language

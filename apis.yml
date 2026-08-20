@@ -23,6 +23,11 @@ position: Producer
 access: Open Source
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/perl.png
 tags:
+  - Open-Source
+  - Programming Language
+  - Scripting
+  - Text Processing
+tags_raw:
   - Open Source
   - Programming Language
   - Scripting

@@ -5,7 +5,7 @@
       "source": "https://blogs.perl.org/atom.xml",
       "feed_url": "https://blogs.perl.org/atom.xml",
       "title": "",
-      "saved": 4,
+      "saved": 0,
       "method": "feed"
     },
     {
@@ -13,10 +13,9 @@
       "feed_url": "https://dev.perl.org",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     }
   ],
-  "post_count": 71,
-  "fetched": "2026-08-15T12:11:08Z"
+  "post_count": 74,
+  "fetched": "2026-08-22T20:20:02Z"
 }

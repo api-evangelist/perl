@@ -34,7 +34,7 @@ position: Producing
 access: Open Source
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/perl.png
 tags:
-  - Open-Source
+  - Open Source
   - Programming Language
   - Scripting
   - Text Processing
@@ -43,6 +43,7 @@ tags_raw:
   - Programming Language
   - Scripting
   - Text Processing
+  - Open-Source
 created: '2026-04-28'
 modified: '2026-04-28'
 url: >-
